@@ -2,6 +2,12 @@
 
 I made a blogging application using Microservices architecture. This application is obviously not production ready. I only used it to get a taste of the architecture. I am following the amazing course on Microservices by <a href="https://github.com/StephenGrider">Stephen Grider</a>. Go check his profile out.
 
+# Tech Stack
+<li>Node JS</li>
+<li>React JS</li>
+<li>Docker</li>
+<li>Kubernetes</li>
+
 ### How to run?
 1. cd in to all the directories and run *npm install*
 2. Run npm start in all the directories.
